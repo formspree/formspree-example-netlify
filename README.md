@@ -9,7 +9,7 @@
 
 Or just deploy directly to Netlify!
 
-**Todo: add Netlify deploy button**
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/formspree/formspree-example-netlify)
 
 ## Installation
 
