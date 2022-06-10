@@ -9,7 +9,7 @@
 
 Or just deploy directly to Netlify!
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/formspree/formspree-example-netlify)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/formspree/formspree-example-netlify&NEXT_PUBLIC_FORM=YOUR_FORM_ID)
 
 ## Installation
 
