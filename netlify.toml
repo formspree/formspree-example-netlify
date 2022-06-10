@@ -1,0 +1,2 @@
+[template.environment]
+  NEXT_PUBLIC_FORM = "Your form's hashid from formspree.io"
